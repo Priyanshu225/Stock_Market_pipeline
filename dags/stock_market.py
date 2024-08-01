@@ -11,7 +11,7 @@ from astro import sql as aql
 from astro.files import File
 from astro.sql.table import Table, Metadata
 
-SYMBOL = 'HDFCBANK.NS'
+SYMBOL = 'HDFCBANK.NS' #Change the name of the Stock
 BUCKET_NAME = 'stock-market'
 
 
